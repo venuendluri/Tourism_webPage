@@ -1,0 +1,58 @@
+.backround{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/ocean.jpg");
+    height: 100vh;
+    background-size: cover;
+
+}
+.card1{
+    background-color: azure;
+    text-align: center;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    padding:20px;
+
+}
+.favouriteplace{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/towerbg.png");
+    height: 120vh;
+    background-size: cover;
+    padding: 15px;
+}
+.heading{
+    color: white;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.card2{
+    border-radius: 10px;
+    background-color: white;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+.image{
+    height: 100px;
+    margin-top: 15px;
+}
+.placesbackround{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/seabg.png");
+    height: 100vh;
+    background-size: cover;
+    padding: 20px;
+}
+.card3{
+    background-color: white;
+    padding: 15px;
+    margin-bottom: 20px;
+    
+}
+.heading2{
+    margin-top: 10px;
+    font-weight: bolder;
+    
+}
+.paragraph{
+    font-size: 15px;
+    color: grey;
+}
